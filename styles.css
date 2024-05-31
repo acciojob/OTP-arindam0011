@@ -13,6 +13,8 @@
 	margin-bottom:40px
 }
 .code{
+	padding-left:15px;
+	margin:0;
 	width:50px;
 	height:50px;
 	font-size:30px;
@@ -24,7 +26,7 @@
 }
 .code-container{
 	display:flex;
-	justify-content:centre;
+	justify-content:center;
 	padding: 30px;
 	
 }
